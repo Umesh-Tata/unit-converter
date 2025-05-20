@@ -1,0 +1,5 @@
+{
+  "name": "Unit Converter Pro",
+  "description": "A sleek and intuitive web application for converting common units like temperature (Celsius/Fahrenheit) and weight (Kilograms/Pounds), designed with an Android-inspired user interface.",
+  "requestFramePermissions": []
+}

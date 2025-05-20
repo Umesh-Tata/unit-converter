@@ -57,7 +57,8 @@ To run the application on an emulator or a connected device:
 
 ## Preview
 
-(Insert screenshot or GIF of the app running on a mobile device here)
+![image](https://github.com/user-attachments/assets/ecd4a948-24f5-493a-9ddf-bd1fc911cf82)
+
 
 ## Contributing
 
